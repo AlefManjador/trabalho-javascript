@@ -1,0 +1,29 @@
+var a = prompt("Digite o primeiro numero: ");
+var b = prompt("Digite o segundo numero: ");
+var i = a;
+
+if (a<b) {
+
+
+
+}else if(b>a && b<a){
+
+
+
+
+
+} else {
+
+document.write("os numeros não podem ser iguais !");
+
+}
+for(i=a;i<b; i++) {
+
+
+		
+document.write(i + "<br>");
+	
+}
+
+
+	
